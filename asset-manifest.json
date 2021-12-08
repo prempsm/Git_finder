@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Git_finder/static/css/main.4b41f25c.chunk.css",
+    "main.js": "/Git_finder/static/js/main.0321a983.chunk.js",
+    "main.js.map": "/Git_finder/static/js/main.0321a983.chunk.js.map",
+    "runtime-main.js": "/Git_finder/static/js/runtime-main.024890f4.js",
+    "runtime-main.js.map": "/Git_finder/static/js/runtime-main.024890f4.js.map",
+    "static/js/2.6539dc28.chunk.js": "/Git_finder/static/js/2.6539dc28.chunk.js",
+    "static/js/2.6539dc28.chunk.js.map": "/Git_finder/static/js/2.6539dc28.chunk.js.map",
+    "index.html": "/Git_finder/index.html",
+    "static/css/main.4b41f25c.chunk.css.map": "/Git_finder/static/css/main.4b41f25c.chunk.css.map",
+    "static/js/2.6539dc28.chunk.js.LICENSE.txt": "/Git_finder/static/js/2.6539dc28.chunk.js.LICENSE.txt",
+    "static/media/spinner.8517b35d.gif": "/Git_finder/static/media/spinner.8517b35d.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.024890f4.js",
+    "static/js/2.6539dc28.chunk.js",
+    "static/css/main.4b41f25c.chunk.css",
+    "static/js/main.0321a983.chunk.js"
+  ]
+}
