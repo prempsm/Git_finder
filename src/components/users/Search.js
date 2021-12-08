@@ -18,7 +18,7 @@ class Search extends Component {
                 <form className="ps-form" onSubmit={this.onSubmit.bind(this)} >
                       <input type='text' 
                        name='text'
-                       placeholder='Search Here......'
+                       placeholder='Search Here For Result......'
                        value={this.state.text}
                        onChange={this.onChange}
                       />
